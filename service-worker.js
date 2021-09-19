@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.03aa4e19e8a75126af76b45c0b256826.js"
+  "/precache-manifest.ddbed423f955fdb6fa2748b7435039c9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ohneulmuamukji"});
